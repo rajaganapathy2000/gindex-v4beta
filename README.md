@@ -1,5 +1,3 @@
-![https://data.jsdelivr.com/v1/package/gh/rajaganapathy2000/gindex-v4/badge/year](https://data.jsdelivr.com/v1/package/gh/rajaganapathy2000/gindex-v4/badge/year) ![https://data.jsdelivr.com/v1/package/gh/rajaganapathy2000/gindex-v4/badge/month](https://data.jsdelivr.com/v1/package/gh/rajaganapathy2000/gindex-v4/badge/month) ![https://data.jsdelivr.com/v1/package/gh/rajaganapathy2000/gindex-v4/badge/week](https://data.jsdelivr.com/v1/package/gh/rajaganapathy2000/gindex-v4/badge/week) ![https://img.shields.io/github/languages/top/rajaganapathy2000/gindex-v4](https://img.shields.io/github/languages/top/rajaganapathy2000/gindex-v4) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/joinchat/MXJ4wk5Gs__QFZbvBdd_pg)
-
 ##  A Vue js Based GD Index
 
 #### [Project HomePage](https://gen.infozy.tk/)
