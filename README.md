@@ -1,9 +1,3 @@
-##  A Vue js Based GD Index
-
-#### [Project HomePage](https://gen.infozy.tk/)
-#### [Follow guide to deploy yours!](https://telegra.ph/Google-Drive-Ultimate-Index-07-04)
-#### [Telegram Support Group](https://t.me/joinchat/MXJ4wk5Gs__QFZbvBdd_pg)
-
 #### We have a Detailed Project WiKi that Explains Everything in Detail and the Process to be Done to Deploy Everything and Also how to Develop in Local Environment - [Here is the Wiki](https://github.com/rajaganapathy2000/gindex-v4/wiki)
 
 ## Introducing Our Own CLI Tool
